@@ -1,7 +1,8 @@
-package com.milenkobojanic.swoosh
+package com.milenkobojanic.swoosh.controller
 
 import android.content.Intent
 import android.os.Bundle
+import com.milenkobojanic.swoosh.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : BaseActivity() {
