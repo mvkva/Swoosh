@@ -2,7 +2,9 @@ package com.milenkobojanic.swoosh.controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.os.PersistableBundle
 import android.util.Log
+import com.milenkobojanic.swoosh.utility.EXTRA_PLAYER
 
 open class BaseActivity : AppCompatActivity() {
 
